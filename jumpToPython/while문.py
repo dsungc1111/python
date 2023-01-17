@@ -12,3 +12,4 @@ while True:
         print("money isn't enough, remain coffee : %d" % coffee)
     if coffee == 0:
         print("stop selling")
+        break
